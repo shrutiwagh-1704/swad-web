@@ -1,0 +1,86 @@
+
+
+.Menu
+{
+    margin-left: 45vh;
+    /* align-items: center; */
+}
+.main-menu
+{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+.main-menu li
+{
+    margin-left: 8%;
+    justify-content: space-evenly;
+    border: 1px solid;
+    padding:15px;
+    background-color: rgb(219, 126, 13);
+    font-weight: bold;
+
+}
+
+
+
+li:hover
+{
+    background-color: grey;
+    cursor: pointer;
+}
+
+.table
+{
+    margin-left: 15%;
+}
+.sample
+{
+    height: 45vh;
+    width:40vh;
+    padding: 20px;
+    /* margin-right: 10%; */
+
+}
+.sample img
+{
+    height: 100%;
+    width:100%;
+
+}
+
+.dishes
+{
+    height:10px;
+    width:40vh;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.price
+{
+    height:10px;
+    width:40vh;
+    text-align: center;
+    color: rgb(219, 126, 13);
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    padding-bottom: 5%;
+
+}
+
+a
+{
+    text-decoration: none;
+    margin-left:8%;
+    color: inherit;
+}
+
+
+
